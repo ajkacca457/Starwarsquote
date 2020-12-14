@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap');
+
+body {
+  background-image: url("bgimg.jpg");
+  background-size:cover;
+  font-family: 'Noto Serif', serif;
+}
+
+.container1 {
+  background-color: white;
+  width: 50%;
+  margin-right: auto;
+  margin-top: 10%;
+  margin-left: 5%;
+  border-radius: 5px;
+}
+
+h1 {
+  border-bottom: 1px black solid;
+  width: 50%;
+  margin:auto;
+}
