@@ -14,9 +14,6 @@ This is a javascript project to fetch data from external data using Promise, aja
 - Ajax
 - Starwarsquote api
 
-<h2>Live Demo</h2>
-https://bbcharachter.netlify.app/
-
 <h2>Getting Started</h2>
 To get a local copy up and running follow these simple example steps.
 
